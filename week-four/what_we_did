@@ -1,0 +1,29 @@
+1.Switch Statements
+    switch (switch-expression)
+    {
+        case value1: statement(s)1;
+                        break;
+
+        case value2: statement(s)2;
+                        break;
+
+        ...
+        case valueN: statement(s)N;
+                     break;
+        default: statements(s)-for-default;
+    }
+
+2. While Loops
+    while (loop-continuation-condition)
+    {
+        //loop body
+        stements
+    }
+3. Do - While loop
+    do
+    {
+        //loop body;
+        statement(s);
+    } while (loop-continuation-condition)
+
+4. For loop

@@ -31,7 +31,7 @@ int main() {
     float interest;
     interest = anl_interest + srt_balance + year;
     float new_balance = srt_balance + interest;
-    cout << "New Balance after a" << year << "year(s):" << new_balance << endl;
+    cout << "New Balance after " << year << " " << "year(s):" << new_balance << endl;
 
     return 0;
 }
