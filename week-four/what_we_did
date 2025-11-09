@@ -26,4 +26,5 @@
         statement(s);
     } while (loop-continuation-condition)
 
-4. For loop
+4. For loop: for loop for adding one, two variavbles and for loops for multiplying one or two variables
+
